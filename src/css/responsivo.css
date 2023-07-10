@@ -13,12 +13,12 @@
         margin-top: 37px;
     }
 
-    .selecao-de-personagens.personagens .titulo{
+    .selecao-de-personagens .personagens .titulo{
         font-size: 15px;
     }
 
     .selecao-de-personagens .lista-de-personagens{
-        gap: 9px;
+        gap: 9px
     }
 
     .selecao-de-personagens .personagem img{
